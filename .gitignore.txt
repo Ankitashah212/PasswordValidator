@@ -1,4 +1,4 @@
 *.class
 *.project
 *.log
-.classpath
+*.classpath
